@@ -1,0 +1,29 @@
+.cell {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+      margin-bottom: 10px;
+      margin-right: 10px;
+      background-color: #00BEE5;
+    }
+.button-full {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+      background-color: green;
+    }
+.button-update {
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      border-bottom-left-radius: 15px;
+      border-bottom-right-radius: 15px;
+      background-color: red;
+    }
+.map {
+      border-top-left-radius: 30px;
+      border-top-right-radius: 30px;
+      border-bottom-left-radius: 30px;
+      border-bottom-right-radius: 30px;
+    }
